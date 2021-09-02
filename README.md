@@ -1,2 +1,2 @@
 # HTML_Challenges
- A Prática Leva à Perfeição
+ Primiero projeto realizado na aula de HTML. Projeto básico. 
